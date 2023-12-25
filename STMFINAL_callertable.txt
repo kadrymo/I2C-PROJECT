@@ -1,0 +1,11 @@
+main
+	__CC2DW
+	__FillZeros
+	begin
+	beginTransmission
+	write
+	endTransmission
+	end
+	enableNoiseFilter
+	onReceive
+		Blink

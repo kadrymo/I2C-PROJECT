@@ -1,0 +1,14 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F401CD -BIN -LHF -DL -SSA -O11111114 -fo16 -N"D:\KADRYCOd\STMFINAL.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" -SP"D:\KADRYCOd\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" "STMFINAL.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_4XX.emcl" "__Lib_GPIO_32F401x_Defs.emcl" "__Lib_GPIO_32F4x1.emcl"	 
+diagnostics: 0	122	Compilation Started	STMFINAL.c
+diagnostics: 233	123	Compiled Successfully	STMFINAL.c
+hint: 100	1164	Variable 'quantity' has been eliminated by optimizer	STMFINAL.c
+hint: 100	1164	Variable 'array' has been eliminated by optimizer	STMFINAL.c
+hint: 161	1164	Variable 'Data_R' has been eliminated by optimizer	STMFINAL.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RX: 15 (94%)   Free RX: 1 (6%)	Used RX: 15 (94%)   Free RX: 1 (6%)
+hint: 0	1144	Static RAM (bytes): 17   Dynamic RAM (bytes): 98281	Static RAM (bytes): 17   Dynamic RAM (bytes): 98281
+hint: 0	1144	Used ROM (bytes): 2448 (1%)  Free ROM (bytes): 390768 (99%)	Used ROM (bytes): 2448 (1%)  Free ROM (bytes): 390768 (99%)
+diagnostics: 0	125	Project Linked Successfully	STMFINAL.mcpar
+diagnostics: 0	128	Linked in 203 ms	 
+diagnostics: 0	129	Project 'STMFINAL.mcpar' completed: 531 ms	 
+diagnostics: 0	103	Finished successfully: 25 Dec 2023, 17:34:36	STMFINAL.mcpar
